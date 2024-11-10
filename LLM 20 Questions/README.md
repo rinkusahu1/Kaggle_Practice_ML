@@ -15,5 +15,5 @@ The 20 Questions competition challenges teams to build two LLMs: one acts as the
 
 - Model Fine-Tuning & Training: Implemented instruction fine-tuning using the **LoRA (Low-Rank Adaptation) technique on the Llama-3.1-8B-Instruct model. Applied Fully Sharded Data Parallel (FSDP) for efficient training but encountered out-of-memory (OOM) issues during the process.
 
-## LLM 20 question Game 🎲🤖
+## 🎲🤖 LLM 20 question Game 
 ![Game](game/LLM20.gif)
