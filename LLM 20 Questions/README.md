@@ -13,6 +13,7 @@ The 20 Questions competition challenges teams to build two LLMs: one acts as the
 
 - Dataset Creation & Question Generation: Developed a dataset where an LLM generated a series of questions about a given word, starting from broader to more specific, spanning three levels of questioning. The answers were used as input, and the model iterated through the process to refine its understanding of the word.
 
-- Model Fine-Tuning & Training: Implemented instruction fine-tuning using the LoRA (Low-Rank Adaptation) technique on the Llama-3.1-8B-Instruct model. Applied Fully Sharded Data Parallel (FSDP) for efficient training but encountered out-of-memory (OOM) issues during the process.
+- Model Fine-Tuning & Training: Implemented instruction fine-tuning using the **LoRA (Low-Rank Adaptation) technique on the Llama-3.1-8B-Instruct model. Applied Fully Sharded Data Parallel (FSDP) for efficient training but encountered out-of-memory (OOM) issues during the process.
 
 ## LLM 20 question Game
+![Game](game/LLM20.mp4)
