@@ -9,7 +9,7 @@ By integrating passive acoustic monitoring (PAM) and machine learning, the compe
 ## 🧩 Approach
 
 
-Converted audio data into mel-spectrogram representations and applied data augmentation techniques, including normalization, RandomCutout, and MixUp. Utilized the EfficientNetV2-B2 architecture with modifications to the output layer to enable multi-label classification.
+**Converted audio data into mel-spectrogram representations and applied data augmentation techniques, including normalization, RandomCutout, and MixUp. Utilized the EfficientNetV2-B2 architecture with modifications to the output layer to enable multi-label classification.**
 
 ### Why Use Mel-Spectrograms?
 
