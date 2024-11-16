@@ -26,11 +26,11 @@ Mel-spectrograms are used in this project due to their ability to provide a time
 
 ### Mel-spectrogram
 <div align="center">
-    <img src="images/mel-spec.PNG" alt="orientation" width="300">
+    <img src="images/mel-spec.PNG" alt="orientation" width="1000">
 </div>
 
 
-### Data augmentation
+### Data Augmentation
 <div align="center">
-    <img src="images/data-augmentation.PNG" alt="orientation" width="300">
+    <img src="images/data-augmentation.PNG" alt="orientation" width="1000">
 </div>
