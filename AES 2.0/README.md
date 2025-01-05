@@ -9,9 +9,9 @@ In this competition, you will work with the largest open-access writing dataset 
 
 ## 🧩 Approach
 
-Fine-tuned the DeBERTaV3 Extra Small English encoder-only transformer model using a multi-fold approach to learn the embedding matrix for essays. Preprocessed the essays and engineered various features based on sentences, paragraphs, and words.
-Additionally, applied K-means clustering to extract topic-based features from the essays. These prepared features, along with the embeddings, were used as inputs to train a LightGBM (LGBM) model for essay score prediction. 
-Achieved a Quadratic Weighted Kappa score of 0.80785 on the public dataset and 0.81809 on the private dataset.
+- Fine-tuned the DeBERTaV3 Extra Small English encoder-only transformer model using a multi-fold approach to learn the embedding matrix for essays. Preprocessed the essays and engineered various features based on sentences, paragraphs, and words.
+- Additionally, applied K-means clustering to extract topic-based features from the essays. These prepared features, along with the embeddings, were used as inputs to train a LightGBM (LGBM) model for essay score prediction. 
+- Achieved a Quadratic Weighted Kappa score of 0.80785 on the public dataset and 0.81809 on the private dataset.
 
 ### Score Distribution
 <div align="center">
